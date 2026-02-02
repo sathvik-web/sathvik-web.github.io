@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # sathvik-web.github.io
 
 ## About Me
