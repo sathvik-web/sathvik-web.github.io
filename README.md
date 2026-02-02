@@ -1,5 +1,3 @@
-# sathvik-web.github.io
-
 ## About Me
 
 I am an AI & Machine Learning engineering student with hands-on experience in building end-to-end machine learning and NLP systems. I specialize in designing data pipelines, fine-tuning deep learning models, and applying modern NLP and large language models (LLMs) to real-world problems.
@@ -54,21 +52,15 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ## Skills
 
-**Programming:**  
-- Python, SQL  
+**Programming:**  Python, SQL  
 
-**Machine Learning & AI:**  
-- Scikit-learn, TensorFlow, Keras  
-- Feature engineering, model training and evaluation  
+**Machine Learning & AI:**  Scikit-learn, TensorFlow, Keras, Feature engineering, model training and evaluation  
 
-**Databases:**  
-- MySQL  
+**Databases:**  MySQL  
 
-**Tools:**  
-- Git, GitHub, Jupyter Notebook  
+**Tools:**  Git, GitHub, Jupyter Notebook  
 
-**Other:**  
-- Problem solving  
+**Other:**  Problem solving  
 
 ---
 
