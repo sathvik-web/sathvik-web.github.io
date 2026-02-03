@@ -27,7 +27,7 @@ body::after {
   inset: 0;
   z-index: -2;
 
-  background: url("/assets/photo.jpg") center / cover no-repeat;
+  background: url("/assets/1.jpg") center / cover no-repeat;
   filter: blur(2px) brightness(0.75);
 
   animation: photoMove 40s ease-in-out infinite alternate;
