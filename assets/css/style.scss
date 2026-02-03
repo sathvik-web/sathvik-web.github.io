@@ -28,7 +28,7 @@ body::after {
   inset: 0;
   z-index: -2;
 
-  background: url("/assets/bg.jpg") center / cover no-repeat;
+  background: url("/assets/photo.jpg") center / cover no-repeat;
   filter: blur(6px) brightness(0.45);
   transform: scale(1.05);
 }
