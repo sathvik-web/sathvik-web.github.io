@@ -94,3 +94,120 @@ body {
 pre, code {
   border-radius: 8px;
 }
+
+
+body {
+  background: radial-gradient(circle at top left,
+      #0f172a,
+      #020617 60%);
+  color: #e5e7eb;
+}
+
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background:
+    radial-gradient(circle at 20% 20%, rgba(56,189,248,0.12), transparent 35%),
+    radial-gradient(circle at 80% 70%, rgba(99,102,241,0.10), transparent 40%);
+  animation: bgFloat 18s ease-in-out infinite alternate;
+}
+
+@keyframes bgFloat {
+  from { transform: translateY(0px); }
+  to   { transform: translateY(-40px); }
+}
+
+
+.main-content {
+  background: rgba(15, 23, 42, 0.65) !important;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-radius: 20px;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+
+
+.main-content > div[data-aos] {
+  margin-bottom: 3.5rem;
+}
+
+
+
+.main-content h2 {
+  color: #e0e7ff !important;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  border-bottom: none;
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.main-content h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 60px;
+  height: 3px;
+  border-radius: 4px;
+  background: linear-gradient(90deg,#38bdf8,#6366f1);
+}
+
+
+.main-content h3 {
+  color: #c7d2fe !important;
+  margin-top: 1.4rem;
+}
+
+
+
+.main-content p,
+.main-content li {
+  color: #d1d5db;
+  line-height: 1.75;
+}
+
+.main-content a {
+  color: #7dd3fc !important;
+  position: relative;
+  text-decoration: none;
+  transition: all 0.25s ease;
+}
+
+.main-content a:hover {
+  color: #a5b4fc !important;
+  transform: translateY(-2px);
+}
+
+
+.main-content div[data-aos] {
+  padding: 1.6rem 1.8rem;
+  border-radius: 16px;
+  background: linear-gradient(
+    180deg,
+    rgba(255,255,255,0.03),
+    rgba(255,255,255,0.01)
+  );
+  border: 1px solid rgba(255,255,255,0.06);
+  transition: transform .3s ease, box-shadow .3s ease;
+}
+
+.main-content div[data-aos]:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 50px rgba(0,0,0,0.35);
+}
+
+.main-content hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(255,255,255,0.15),
+    transparent
+  );
+}
