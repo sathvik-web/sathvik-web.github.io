@@ -1,5 +1,17 @@
 <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
+<div data-aos="fade-up" markdown="1">
+
+## Contact
+
+📩 **Email:** sathvik@example.com  
+🔗 **LinkedIn:** https://linkedin.com/in/yourname  
+🐙 **GitHub:** https://github.com/sathvik-web  
+
+📄 **Resume:** [Download Resume](./assets/Sathvik_Resume.pdf)
+
+</div>
+
 
 <div data-aos="fade-up" markdown="1">
 
