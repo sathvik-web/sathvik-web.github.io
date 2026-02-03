@@ -4,11 +4,11 @@
 
 ## Contact
 
-📩 **Email:** sathvikdantu45@gmail.com  
-🔗 **LinkedIn:** [https://linkedin.com/in/sathvik-dantu](http://www.linkedin.com/in/sathvik-dantu-b72580283) 
-🐙 **GitHub:** https://github.com/sathvik-web  
+- **Email:** sathvikdantu45@gmail.com  
+- **LinkedIn:** [https://linkedin.com/in/sathvik-dantu](http://www.linkedin.com/in/sathvik-dantu-b72580283) 
+- **GitHub:** https://github.com/sathvik-web  
 
-📄 **Resume:** [Download Resume](./assets/Sathvik_Resume.pdf)
+- **Resume:** [Download Resume](./assets/Sathvik_Resume.pdf)
 
 </div>
 
