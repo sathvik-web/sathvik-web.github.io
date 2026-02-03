@@ -1,3 +1,5 @@
+<link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
 ## About Me
 
 I am an AI & Machine Learning engineering student with hands-on experience in building end-to-end machine learning and NLP systems. I specialize in designing data pipelines, fine-tuning deep learning models, and applying modern NLP and large language models (LLMs) to real-world problems.
@@ -17,6 +19,7 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ---
 
+<div data-aos="zoom-in">
 ## Projects
 
 ### 🔹 RAG-Based PDF Question Answering Bot
@@ -26,6 +29,7 @@ My interests include Natural Language Processing, Large Language Models, federat
 - Designed a modular inference pipeline suitable for real-world document analysis and research workflows.
 
 **Key skills:** NLP, embeddings, vector search, LLM inference, pipeline design
+</div>
 
 ---
 
@@ -50,17 +54,23 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ---
 
+<div data-aos="fade-right">
+
+<div data-aos="fade-right">
+
 ## Skills
 
-**Programming:**  Python, SQL  
+**Programming:** Python, SQL  
 
-**Machine Learning & AI:**  Scikit-learn, TensorFlow, Keras, Feature engineering, model training and evaluation  
+**Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, Feature engineering, model training and evaluation  
 
-**Databases:**  MySQL  
+**Databases:** MySQL  
 
-**Tools:**  Git, GitHub, Jupyter Notebook  
+**Tools:** Git, GitHub, Jupyter Notebook  
 
-**Other:**  Problem solving  
+**Other:** Problem solving  
+
+</div>
 
 ---
 
@@ -74,9 +84,19 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ---
 
+<div data-aos="fade-up">
 ## Education
 
 **B.Tech – Artificial Intelligence & Machine Learning**  
 Woxsen University, Hyderabad  
 **GPA:** 8.61 / 10  
 **Duration:** 2023 – 2027 (Pursuing)
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init({
+    duration: 900,
+    once: true
+  });
+</script>
