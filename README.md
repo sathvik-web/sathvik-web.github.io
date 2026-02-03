@@ -1,7 +1,7 @@
 <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
 
-<div data-aos="fade-up">
+<div data-aos="fade-up" markdown="1">
 
 ## About Me
 
@@ -13,7 +13,7 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ---
 
-<div data-aos="fade-right">
+<div data-aos="fade-right" markdown="1">
 
 ## Experience
 
@@ -28,7 +28,7 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ---
 
-<div data-aos="zoom-in">
+<div data-aos="zoom-in" markdown="1">
 
 ## Projects
 
@@ -44,7 +44,7 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ---
 
-<div data-aos="zoom-in">
+<div data-aos="zoom-in" markdown="1">
 
 ### 🔹 Abstractive Text Summarization using T5 Transformer
 
@@ -59,7 +59,7 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ---
 
-<div data-aos="zoom-in">
+<div data-aos="zoom-in" markdown="1">
 
 ### 🔹 Federated Learning using CNN
 
@@ -73,7 +73,7 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ---
 
-<div data-aos="fade-right">
+<div data-aos="fade-right" markdown="1">
 
 ## Skills
 
@@ -91,7 +91,7 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ---
 
-<div data-aos="fade-up">
+<div data-aos="fade-up" markdown="1">
 
 ## Patent
 
@@ -105,7 +105,7 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ---
 
-<div data-aos="fade-up">
+<div data-aos="fade-up" markdown="1">
 
 ## Education
 
