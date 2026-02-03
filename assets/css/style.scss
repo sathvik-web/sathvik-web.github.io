@@ -21,7 +21,6 @@ body {
 }
 
 
-
 body::after {
   content: "";
   position: fixed;
@@ -29,10 +28,20 @@ body::after {
   z-index: -2;
 
   background: url("/assets/photo.jpg") center / cover no-repeat;
-  filter: blur(6px) brightness(0.45);
-  transform: scale(1.05);
+  filter: blur(2px) brightness(0.75);
+
+  animation: photoMove 40s ease-in-out infinite alternate;
+  will-change: transform;
 }
 
+@keyframes photoMove {
+  from {
+    transform: scale(1.08) translateY(0px);
+  }
+  to {
+    transform: scale(1.08) translateY(-40px);
+  }
+}
 
 
 body::before {
