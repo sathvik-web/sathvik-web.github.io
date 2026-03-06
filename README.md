@@ -44,6 +44,51 @@ My interests include Natural Language Processing, Large Language Models, federat
 
 ## Projects
 
+### 🔹 Multimodal Image Captioning
+
+GitHub: https://github.com/sathvik-web/multimodal_image_captioning
+
+- Developed a multimodal deep learning model that generates descriptive captions for images by combining computer vision and natural language processing techniques.
+- Extracted visual features using a pre-trained CNN encoder and generated captions with an LSTM-based sequence decoder.
+- Built an end-to-end pipeline including image preprocessing, feature extraction, tokenization, and sequence generation.
+- Evaluated caption quality using BLEU scores and qualitative analysis to assess language fluency and relevance.
+
+</div>
+
+---
+
+<div data-aos="zoom-in" markdown="1">
+
+### 🔹 Handwritten OCR System
+
+GitHub: https://github.com/sathvik-web/Handwritten-OCR-System
+
+- Built a handwritten Optical Character Recognition (OCR) system to recognize handwritten text using deep learning techniques.
+- Implemented image preprocessing steps such as noise reduction, normalization, and segmentation to improve recognition accuracy.
+- Trained a convolutional neural network (CNN) model to classify handwritten characters from image inputs.
+- Developed an inference pipeline that converts handwritten images into machine-readable text for automated document processing.
+
+</div>
+
+---
+
+<div data-aos="zoom-in" markdown="1">
+
+### 🔹 Voice Authentication Anti-Spoofing System
+
+GitHub: https://github.com/sathvik-web/voice-authentication-anti-spoofing-system
+
+- Developed a voice authentication system capable of detecting spoofed or synthesized audio used in voice-based security systems.
+- Extracted audio features such as MFCCs and spectral representations for training machine learning models.
+- Built a classification model to distinguish between genuine and spoofed voice samples.
+- Designed the system to enhance security in voice biometric authentication applications.
+
+</div>
+
+---
+
+<div data-aos="zoom-in" markdown="1">
+
 ### 🔹 RAG-Based PDF Question Answering Bot
 
 - Built an intelligent **Retrieval-Augmented Generation (RAG)** system to answer user questions from PDF documents
