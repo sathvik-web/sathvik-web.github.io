@@ -7,7 +7,6 @@
 - **Email:** sathvikdantu45@gmail.com  
 - **LinkedIn:** [https://linkedin.com/in/sathvik-dantu](http://www.linkedin.com/in/sathvik-dantu-b72580283) 
 - **GitHub:** [https://github.com/sathvik-web](https://github.com/sathvik-web)  
-
 - **Resume:** [Download Resume](./assets/Sathvik_Resume.pdf)
 
 </div>
@@ -91,6 +90,8 @@ GitHub: https://github.com/sathvik-web/voice-authentication-anti-spoofing-system
 
 ### 🔹 RAG-Based PDF Question Answering Bot
 
+GitHub: https://github.com/sathvik-web/rag-pdf-qa-bot
+
 - Built an intelligent **Retrieval-Augmented Generation (RAG)** system to answer user questions from PDF documents
 - Implemented document embedding, vector search, and context retrieval for accurate response generation
 - Designed a modular inference pipeline suitable for real-world document analysis and research workflows
@@ -104,6 +105,8 @@ GitHub: https://github.com/sathvik-web/voice-authentication-anti-spoofing-system
 <div data-aos="zoom-in" markdown="1">
 
 ### 🔹 Abstractive Text Summarization using T5 Transformer
+
+GitHub: https://github.com/sathvik-web/text-summarizer-app
 
 - Fine-tuned a pre-trained **T5 Transformer** model to generate human-like abstractive summaries
 - Built a complete NLP pipeline including text cleaning, tokenization, attention masks, and sequence padding
@@ -120,6 +123,8 @@ GitHub: https://github.com/sathvik-web/voice-authentication-anti-spoofing-system
 
 ### 🔹 Federated Learning using CNN
 
+GitHub: https://github.com/sathvik-web/federated-learning-chestxray
+
 - Built a federated learning system in which multiple clients collaboratively trained a CNN model without sharing raw data
 - Designed client-side training workflows and simulated multiple federated learning rounds
 - Implemented **FedAvg** aggregation and analyzed convergence behavior across training rounds
@@ -134,11 +139,11 @@ GitHub: https://github.com/sathvik-web/voice-authentication-anti-spoofing-system
 
 ## Skills
 
-**Programming:** Python, SQL  
+**Programming:** Python, Java, JavaScript
 
-**Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, Feature engineering, model training and evaluation  
+**Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, Feature engineering, Pytorch, Pandas
 
-**Databases:** MySQL  
+**Cloud & Databases:** AWS, Docker, POSTGRESQL, 
 
 **Tools:** Git, GitHub, Jupyter Notebook  
 
@@ -173,11 +178,3 @@ Woxsen University, Hyderabad
 
 </div>
 
-
-<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
-<script>
-  AOS.init({
-    duration: 900,
-    once: true
-  });
-</script>
