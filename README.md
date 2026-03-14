@@ -169,12 +169,4 @@ GitHub: https://github.com/sathvik-web/federated-learning-chestxray
 
 <div data-aos="fade-up" markdown="1">
 
-## Education
-
-**B.Tech – Artificial Intelligence & Machine Learning**  
-Woxsen University, Hyderabad  
-**GPA:** 8.61 / 10  
-**Duration:** 2023 – 2027 (Pursuing)
-
-</div>
 
