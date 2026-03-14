@@ -1,11 +1,17 @@
 <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    AOS.init({ once: true, duration: 700 });
+  });
+</script>
 
 <div data-aos="fade-up" markdown="1">
 
 ## Contact
 
 - **Email:** sathvikdantu45@gmail.com  
-- **LinkedIn:** [https://linkedin.com/in/sathvik-dantu](http://www.linkedin.com/in/sathvik-dantu-b72580283) 
+- **LinkedIn:** [https://www.linkedin.com/in/sathvik-dantu-b72580283](https://www.linkedin.com/in/sathvik-dantu-b72580283) 
 - **GitHub:** [https://github.com/sathvik-web](https://github.com/sathvik-web)  
 - **Resume:** [Download Resume](./assets/Sathvik_Resume.pdf)
 
@@ -143,7 +149,7 @@ GitHub: https://github.com/sathvik-web/federated-learning-chestxray
 
 **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, Feature engineering, Pytorch, Pandas
 
-**Cloud & Databases:** AWS, Docker, POSTGRESQL, 
+**Cloud & Databases:** AWS, Docker, PostgreSQL
 
 **Tools:** Git, GitHub, Jupyter Notebook  
 
