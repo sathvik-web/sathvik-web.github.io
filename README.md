@@ -165,8 +165,6 @@ GitHub: https://github.com/sathvik-web/federated-learning-chestxray
 
 </div>
 
----
 
-<div data-aos="fade-up" markdown="1">
 
 
